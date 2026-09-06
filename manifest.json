@@ -1,5 +1,5 @@
 {
-  "name": "Gestion des NC",
+  "name": "Gestion des Non-Conformités",
   "short_name": "Gestion NC",
   "start_url": "./pwa.html",
   "scope": "./",
